@@ -93,3 +93,24 @@ quiz-app/
   - Pagination handled via Pageable in Spring Data JPA.
 
 # 📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/89b9f544-9ea9-4b15-bf12-a90e5be54853" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/e22789ed-ab99-4f9d-98be-0e801405bfdf" />
+<img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/43de7b4a-85a5-44dc-ade3-8145ff434966" />
+<img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/780202ff-80c8-45e1-af6b-1b66f780d333" />
+<img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/1bbb25f3-0dc7-4a19-8650-b48c62a67c63" />
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/80142bb1-47cd-4c8d-925a-1c24677519cf" />
+<img width="601" height="903" alt="Screenshot 2025-08-25 204218" src="https://github.com/user-attachments/assets/23059496-abb9-4081-8ca1-0b334b1a43ff" />
+
+
+
+
+
+
+
+
+
+
+
+
+
